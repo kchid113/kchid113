@@ -6,14 +6,6 @@ Computer Science + Economics @ UIUC. I enjoy building practical systems that sit
 - Undergraduate student studying **CS + Economics** at the University of Illinois Urbana-Champaign  
 - Building **ClaimScout**, a web-scraping and data aggregation platform designed to identify and organize potential claimants for class-action lawsuits
 
-🛠️ **Featured Project**
-### **ClaimScout**
-An end-to-end web scraping and data pipeline tool that helps surface eligible claimants for class-action lawsuits.
-- Crawls public records, forums, and structured datasets
-- Cleans, deduplicates, and normalizes large volumes of semi-structured data
-- Applies rule-based and ML-assisted filtering to flag high-confidence claimant matches
-- Designed with scalability, compliance, and transparency in mind
-
 🌱 **Interested in**
 - Software engineering  
 - Full-stack web systems  
